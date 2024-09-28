@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
   <a href="https://www.linkedin.com/in/vivekpal81068/">
     <img src="https://img.shields.io/badge/LinkedIn-vivekpal81068-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/vivekpal-repositories">
+  <a href="https://github.com/PracticeProgram0">
     <img src="https://github.com/PracticeProgram0/PracticeProgram0.git" alt="Github Badge"/>
   </a>
  
