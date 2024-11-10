@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 Welcome to my GitHub profile! I love sharing knowledge to help you grow in your software development journey. Explore and learn from my repositories!
 
- 🌱 I’m currently learning Servlet and JSP<br />
+ 🌱 I’m currently Project Create<br />
  💬 Ask me about my Projects<br />
  📫 How to reach me: conacts are mentioned below<br />
 
@@ -48,6 +48,8 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
   <img src="./images/Visual Studio Code (VS Code).png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/Visual Studio.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/GitHub.png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="./images/Eclipse IDE.png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="./images/IntelliJ IDEA.png" alt="Tools" style="border-radius: 15px;"/>
 </p>
 <br/>
 ##  🐎 Learning & Progress
