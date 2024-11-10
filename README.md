@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Vivek Pal 👋
 
 <!-- **vivekpal81068/vivekpal81068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -97,8 +97,13 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
   <a href="https://www.linkedin.com/in/vivekpal81068/">
     <img src="https://img.shields.io/badge/LinkedIn-vivekpal81068-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+<<<<<<< HEAD
   <a href=""https://github.com/PracticeProgram0">
     <img src="https://img.shields.io/badge/Github-my_practices-green?style=for-the-badge" alt="Github Badge"/>
+=======
+  <a href="https://github.com/PracticeProgram0">
+    <img src="https://img.shields.io/badge/Github-my_practices-green?style=for-the-badge" alt="Github Link"/>
+>>>>>>> 40b1525047355d970e7ea20ac5f74f13b47f4ae9
   </a>
  
 </p>
