@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,18 +24,33 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 ## 🚀 Technologies
 
 <p align="center">
-  <img src="./images/java.png" alt="Languages" style="border-radius: 15px;"/>
+  
   <img src="./images/html.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/css.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/js.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="./images/bootstrap.png" alt="Tools" style="border-radius: 15px;"/>
    <img src="./images/react.png" alt="Tools" style="border-radius: 15px;"/>
+    <img src="./images/Vite.js.png" alt="Tools" style="border-radius: 15px;"/>
+   <img src="./images/java.png" alt="Languages" style="border-radius: 15px;"/>
   <img src="./images/mysql.png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="./images/Cshap.png" alt="Languages" style="border-radius: 15px;"/>
+  <img src="./images/NET.png" height="48"  alt="Languages" style="border-radius: 15px;"/><img src="./images/ASP.NET.png" height="48"  alt="Languages" style="border-radius: 15px;"/><img src="./images/MVC.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
+  <img src="./images/WEB-API.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
+  <img src="./images/Microsoft SQL Server.png" alt="Languages" style="border-radius: 15px;"/>
+
  
 </p>
 
+## 🚀 IDE And Editor
+
+<p align="center">
+  
+  <img src="./images/Visual Studio Code (VS Code).png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="./images/Visual Studio.png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="./images/GitHub.png" alt="Tools" style="border-radius: 15px;"/>
+</p>
 <br/>
-## 🐎 Learning & Progress
+##  🐎 Learning & Progress
 
 <div align="center">
 <a href="https://github.com/vivekpal81068/github-readme-stats#responsive-card-theme#gh-light-mode-only">
@@ -82,7 +97,7 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
   <a href="https://www.linkedin.com/in/vivekpal81068/">
     <img src="https://img.shields.io/badge/LinkedIn-vivekpal81068-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/vivekpal-repositories">
+  <a href=""https://github.com/PracticeProgram0">
     <img src="https://img.shields.io/badge/Github-my_practices-green?style=for-the-badge" alt="Github Badge"/>
   </a>
  
