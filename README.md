@@ -23,23 +23,24 @@ Welcome to my GitHub profile! I love sharing knowledge to help you grow in your 
 
 ## 🚀 Technologies
 
-<p align="center">
+<div align="center">
   
-  <img src="./images/html.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/css.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/js.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/bootstrap.png" alt="Tools" style="border-radius: 15px;"/>
-   <img src="./images/react.png" alt="Tools" style="border-radius: 15px;"/>
-    <img src="./images/Vite.js.png" alt="Tools" style="border-radius: 15px;"/>
-   <img src="./images/java.png" alt="Languages" style="border-radius: 15px;"/>
-  <img src="./images/mysql.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="./images/Cshap.png" alt="Languages" style="border-radius: 15px;"/>
-  <img src="./images/NET.png" height="48"  alt="Languages" style="border-radius: 15px;"/><img src="./images/ASP.NET.png" height="48"  alt="Languages" style="border-radius: 15px;"/><img src="./images/MVC.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
+  <img src="./images/html.png" alt="HTML" style="border-radius: 15px;"/>
+  <img src="./images/css.png" alt="CSS5" style="border-radius: 15px;"/>
+  <img src="./images/js.png" alt="JavaScript" style="border-radius: 15px;"/>
+  <img src="./images/bootstrap.png" alt="Bootstrap" style="border-radius: 15px;"/>
+   <img src="./images/react.png" alt="React" style="border-radius: 15px;"/>
+    <img src="./images/Vite.js.png" alt="Vite" style="border-radius: 15px;"/>
+   <img src="./images/java.png" alt="Java" style="border-radius: 15px;"/>
+  <img src="./images/mysql.png" alt="MySql" style="border-radius: 15px;"/>
+  <img src="./images/Cshap.png" alt="CShap" style="border-radius: 15px;"/>
+  <img src="./images/NET.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
+  <img src="./images/ASP.NET.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
+  <img src="./images/MVC.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
   <img src="./images/WEB-API.png" height="48"  alt="Languages" style="border-radius: 15px;"/>
   <img src="./images/Microsoft SQL Server.png" alt="Languages" style="border-radius: 15px;"/>
 
- 
-</p>
+</div>
 
 ## 🚀 IDE And Editor
 
